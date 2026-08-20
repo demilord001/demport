@@ -54,7 +54,7 @@ export const Testimonials = () => {
     useEffect(() => {
         const interval = setInterval(() => {
             next();
-        }, 2500);
+        }, 4500);
 
         // Clears the interval when the component unmounts or activeIdx changes
         return () => clearInterval(interval);

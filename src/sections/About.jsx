@@ -46,7 +46,7 @@ export const About = () => {
                             I'm a passionate software developer with over 3 yrs of experience crafting digital products that make a difference. My journey started with curiosity for how things work on the web and it has evolved into a deep expertise in modern frontend technologies.
                         </p>
                         <p>
-                            I specialize in React, Python, and Typecript, building everything from sleek landing pages to complex enterprise applications. My approach combines technical excellence with keen eye for design and user experience.
+                            I specialize in React, Python, and NextJS, building everything from sleek landing pages to complex enterprise applications. My approach combines technical excellence with keen eye for design and user experience.
                         </p>
                         <p>
                            When I'm not coding, you'll fing me exploring new technologies contributing to open-source projects, or sharing knowledge with developer communities.

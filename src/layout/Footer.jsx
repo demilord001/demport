@@ -1,8 +1,8 @@
-import { Github, Linkedin, Twitter, Heart } from "lucide-react";
+import { Github, Youtube, Twitter, Heart } from "lucide-react";
 
 const socialLinks = [
-  { icon: Github, href: "#", label: "GitHub" },
-  { icon: Linkedin, href: "#", label: "LinkedIn" },
+  { icon: Github, href: "https://github.com/demilord001", label: "GitHub" },
+  { icon: Youtube, href: "https://www.youtube.com/@TechwithDem", label: "YouTube" },
   { icon: Twitter, href: "#", label: "Twitter" },
 ];
 

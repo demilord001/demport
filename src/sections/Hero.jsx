@@ -66,7 +66,7 @@ export const Hero = () => {
                             </span>
                         </h1>
                         <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                            Hi, I'm Luis Dem - a software developer specializing in React, Python and Typescript. I build scalable, performant web applications that users love.
+                            Hi, I'm Luis Dem - a software developer specializing in React, Python and NextJS. I build scalable, performant web applications that users love.
                         </p>
                     </div>
 
@@ -77,10 +77,10 @@ export const Hero = () => {
                 Contact Me <ArrowRight className="w-5 h-5" />
               </Button>
              </a>
-              <a href="https://ai-coaching-voice-agent.vercel.app">
+              <a href="https://www.youtube.com/@TechwithDem">
               <AnimatedBorderButton>
                 <View className="w-5 h-5" />
-                AI Coaching Agent
+                Youtube Channel
               </AnimatedBorderButton>
               </a>
             </div>
@@ -89,7 +89,7 @@ export const Hero = () => {
             <div className="flex items-center gap-4 animate-fade-in animation-delay-400">
               <span className="text-sm text-muted-foreground">Follow me: </span>
               {[
-                { icon: Github, href: "https://github.com/demilord1873" },
+                { icon: Github, href: "https://github.com/demilord001" },
                 { icon: Linkedin, href: "#" },
                 { icon: Facebook, href: "#" },
               ].map((social, idx) => (

@@ -14,9 +14,9 @@ const projects = [
         title: "Quantum Intellect",
         description: "Next Generation of chatbots and text-based AIs that can satisfy human needs.",
         image: "/projects/download(2).jfif",
-        tags: ["Gemini API", "React", "Javascript"],
-        link: "#",
-        github: "#",
+        tags: ["Groq API", "Next.js", "Typescript"],
+        link: "https://quantum-ai-dev.vercel.app",
+        github: "https://github.com/quantum-ai",
     },
      {
         title: "Consulting AI Tool",
@@ -50,7 +50,7 @@ export const Projects = () => {
                     <span className="font-serif italic font-normal text-white"> {" "} make an impact.</span>
                 </h2>
                 <p className="text-muted-foreground animate-fade-in animation delay-200">
-                    A selection of my recent work, from complex web applications to innovate tools that solve real-world problems.
+                    A selection of my work, from complex web applications to innovate tools that solve real-world problems.
                 </p>
             </div>
 
