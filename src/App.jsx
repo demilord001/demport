@@ -6,6 +6,7 @@ import { Projects } from "@dl/sections/Projects";
 import { Experience } from "@dl/sections/Experience";
 import { Testimonials } from "@dl/sections/Testimonials";
 import { Contact } from "@dl/sections/Contact";
+import WhatsAppWidget from "@dl/components/WhatsAppWidget";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Contact />
       </main>
       <Footer />
+      <WhatsAppWidget />
     </div>
   )
 }

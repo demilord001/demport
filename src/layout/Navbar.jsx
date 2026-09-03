@@ -47,7 +47,7 @@ export const Navbar = () => {
                 {/* CTA */}
                 <div className="hidden md:block">
                     <a href="#contact">
-                        <Button size="sm">Contact Me</Button>
+                        <Button size="sm">Contact Me Via Email</Button>
                     </a>
                     </div>
                 
